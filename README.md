@@ -68,6 +68,7 @@ ml-predict-api/
 ├── model-dev/ # Pytorch model trained and exported
 │   ├── model_training.ipynb
 │   └── best_model.onnx
+│   └── best_model.pth
 ```
 
 ## About Me
