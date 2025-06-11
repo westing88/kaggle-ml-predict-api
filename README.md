@@ -54,6 +54,7 @@ curl -k -X POST https://localhost/predict_behavior \
 
 ## Git Branches Intro
 
+```bash
 ml-predict-api/
 ├── README.md
 ├── docker/ # Docker + HTTPS setup for deploying configuration
@@ -67,6 +68,7 @@ ml-predict-api/
 ├── model-dev/ # Pytorch model trained and exported
 │   ├── model_training.ipynb
 │   └── best_model.onnx
+```
 
 ## About Me
 
