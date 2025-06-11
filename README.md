@@ -1,6 +1,6 @@
 # Project Introduction
 
-This project uses the data from Kaggle to predict a user's next action based on their recent activity (like "view" -> "add to cart" -> ?). The model was fine-tuned and trained using PyTorch, converted to ONNX format, and is deployed through a Java Spring Boot API. This service supports secure HTTPS access and is containerized using Docker with Nginx as a reverse proxy to reproduce.
+This project uses the data from Kaggle (https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset?resource=download&select=events.csv) to predict a user's next action based on their recent activity (like "view" -> "add to cart" -> ?). The model was fine-tuned and trained using PyTorch, converted to ONNX format, and is deployed through a Java Spring Boot API. This service supports secure HTTPS access and is containerized using Docker with Nginx as a reverse proxy to reproduce.
 
 # Reproduction's Environment Set-up
 
