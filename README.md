@@ -7,7 +7,7 @@ This project uses the data from Kaggle (https://www.kaggle.com/datasets/retailro
 ## Prerequisites
 
 - Docker and Docker Compose installed
-- Port 443 open on your local machine (used for HTTPS)
+- Port 443 open and not pre-occupied by other services on your local machine (used for HTTPS)
 
 ## Steps to run
 
